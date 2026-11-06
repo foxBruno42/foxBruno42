@@ -35,11 +35,5 @@ Engenheiro de Software com ampla experiência na arquitetura de sistemas web rob
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=foxBruno42&show_icons=true&theme=dark" />
-</p>
-
 📫 **Vamos conversar?**
 [LinkedIn](https://www.linkedin.com/in/bruno-oliveira-63a802172/) | [E-mail](mailto:fox.bruno42@gmail.com) | [E-mail](mailto:bruno@letec.com.br) | [E-mail](mailto:bruno.oliveira-let@parceirosedu.com.br)

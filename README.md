@@ -38,8 +38,7 @@ Engenheiro de Software com ampla experiência na arquitetura de sistemas web rob
 ### 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=foxBruno42&show_icons=true&theme=dark&include_all_commits=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxBruno42&layout=compact&theme=dark&hide=html,css" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=foxBruno42&show_icons=true&theme=dark" />
 </p>
 
 📫 **Vamos conversar?**
